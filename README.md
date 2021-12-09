@@ -1,0 +1,1 @@
+![Coffee and Cookies](Animation.gif)
